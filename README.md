@@ -21,15 +21,11 @@ AUD5I022-1 - Primer Semestre 2023
   - Processing 4.1
 
 ### Armado de Circuito
-  1. Conectar dos cables (de distintos colores)  desde Arduino Uno a la protoboard:
-   - 5V analogo a canal positivo + del protoboard
-   - GND digital a canal negativo - del protoboard
-   - 
-![IMG_20230428_170956](https://user-images.githubusercontent.com/128843818/235259618-0fdea52e-1e0f-4b52-8046-6f5f5598f3ae.jpg)
-
+  1. Conectar los botones pulsadores al protoboard, entre la columna e y f
+  2.1 conectar las luces led a la fila c
 foto de coneccciones al arduino
 
-  2. Conectar los botones pulsadores al protoboard, entre la columna e y f 
+  2. conectar cables desde v5 y GND a la protoboard
   
 foto de coneccciones al arduino
 
@@ -37,7 +33,10 @@ foto de coneccciones al arduino
   
   foto
   
-  4.  Conectar 4 cables desde pwm digital (2, 3 , 4 y 5) hasta la columna a, que este en linea con la pata superior izquierda de cada pulsador. 
+  4.  conectar las resistencias a las luces led
+  5.  conectar las luces led con los cables a positivo
+  6.  conectar los botones y las luces led a los pines digitales
+   
   
  foto coneccion 
   
