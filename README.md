@@ -24,6 +24,8 @@ AUD5I022-1 - Primer Semestre 2023
   1. Conectar dos cables (de distintos colores)  desde Arduino Uno a la protoboard:
    - 5V analogo a canal positivo + del protoboard
    - GND digital a canal negativo - del protoboard
+   - 
+![IMG_20230428_170956](https://user-images.githubusercontent.com/128843818/235259618-0fdea52e-1e0f-4b52-8046-6f5f5598f3ae.jpg)
 
 foto de coneccciones al arduino
 
