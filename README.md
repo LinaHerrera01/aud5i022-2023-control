@@ -1,6 +1,5 @@
-# aud5i022-2023-control
+# Proyecto Entrega 01 "Cambio de voltaje luces led"
 
-### Proyecto Entrega 01 "Simon dice..."
    Este proyecto corresponde a la primera entrega para la clase Diseño de interfaz electrónica mediante Arduino, donde desarrollaremos un proyecto en Arduino uno de acuerdo a nuestros conocimientos.
    
    ### Integrantes
