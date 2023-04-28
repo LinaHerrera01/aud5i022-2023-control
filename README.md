@@ -23,32 +23,40 @@ AUD5I022-1 - Primer Semestre 2023
 ### Armado de Circuito
   1. Conectar los botones pulsadores al protoboard, entre la columna e y f
   2.1 conectar las luces led a la fila c
-foto de coneccciones al arduino
+
+![IMG_20230428_175704](https://user-images.githubusercontent.com/128843818/235262026-37edf61e-9af8-410b-a3c1-8c904824a000.jpg)
 
   2. conectar cables desde v5 y GND a la protoboard
   
-foto de coneccciones al arduino
+![IMG_20230428_175911](https://user-images.githubusercontent.com/128843818/235262245-b360665c-53b4-4510-9a48-2b6d0b280712.jpg)
 
   3. Conectar luces led en la columna c del protoboard (cada pata mas corta de la luz led debe estar en la misma enumeracion que la pata inferior de cada pulsador)
   
-  foto
+ ![IMG_20230428_180003](https://user-images.githubusercontent.com/128843818/235262281-15e0fcdb-3a53-4d57-9a40-117c6024ab39.jpg)
+
   
   4.  conectar las resistencias a las luces led
+  
+  ![IMG_20230428_180047](https://user-images.githubusercontent.com/128843818/235262327-19545176-77e6-4522-845e-88ca65177dc3.jpg)
+
   5.  conectar las luces led con los cables a positivo
+  
+  ![IMG_20230428_180813](https://user-images.githubusercontent.com/128843818/235262378-90094f48-820b-4b92-9146-9ffa74a1ac66.jpg)
+  
   6.  conectar los botones y las luces led a los pines digitales
    
-  
- foto coneccion 
-  
-foto coneccion luces
+ ### Link Video del Arduino
+ 
+ https://drive.google.com/file/d/1j-3-3RKIzOvR__vuYL0Cft49PzOyJs5M/view?usp=sharing
+ 
+### Link Código para Arduino uno
 
-  4. 
-  
-### Código para Arduino uno
-.....
+https://drive.google.com/file/d/1dWS6WgyRI25hz1NgyjujgPSeYRQAYzbi/view?usp=sharing
 
 ### Imágenes
 
+https://drive.google.com/drive/folders/1hf_DcjA7LAiWVFuT3ehuhZ6pgVKhG0Qq?usp=sharing
 
 ### Conclusiones
+A través de nuestros conocimientos, intentamos generar el juego “Simón dice”, pero debido a esta limitación, el resultado fue un cambio de voltaje en cada una de las luces una vez que se presionan los botones. Es el principio para generar el juego a través de Arduino.uno
 
