@@ -31,11 +31,13 @@ foto de coneccciones al arduino
   
 foto de coneccciones al arduino
 
-  3. Conectar 4 cables desde pwm digital (2, 3 , 4 y 5) hasta la columna a, que este en linea con la pata superior izquierda de cada pulsador. 
+  3. Conectar luces led en la columna c del protoboard (cada pata mas corta de la luz led debe estar en la misma enumeracion que la pata inferior de cada pulsador)
+  
+  foto
+  
+  4.  Conectar 4 cables desde pwm digital (2, 3 , 4 y 5) hasta la columna a, que este en linea con la pata superior izquierda de cada pulsador. 
   
  foto coneccion 
-  
-  4. Conectar luces led en la columna c del protoboard (cada pata mas corta de la luz led debe estar en la misma enumeracion que la pata inferior de cada pulsador)
   
 foto coneccion luces
 
